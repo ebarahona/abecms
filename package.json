@@ -85,7 +85,7 @@
     "express-session": "^1.13.0",
     "express-validator": "^3.2.1",
     "extend": "^3.0.0",
-    "extract-zip": "^1.6.0",
+    "extract-zip": "^1.6.8",
     "fs-compare": "0.0.4",
     "fs-extra": "^2.0.0",
     "handlebars": "^4.0.3",
