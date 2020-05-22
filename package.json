@@ -97,7 +97,7 @@
     "html-minifier": "^3.1.0",
     "https": "^1.0.0",
     "inquirer": "^3.0.6",
-    "jimp": "^0.2.27",
+    "jimp": "^0.3.7",
     "jwt-simple": "^0.5.1",
     "limax": "^1.4.0",
     "lodash": "^4.17.4",
