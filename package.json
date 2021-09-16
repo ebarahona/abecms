@@ -96,7 +96,7 @@
     "helper-markdown": "^0.2.1",
     "html-minifier": "^3.1.0",
     "https": "^1.0.0",
-    "inquirer": "^3.0.6",
+    "inquirer": "^7.0.5",
     "jimp": "^0.2.27",
     "jwt-simple": "^0.5.1",
     "limax": "^1.4.0",
